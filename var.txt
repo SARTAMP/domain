@@ -1,7 +1,7 @@
-api_id=15995433
-api_hash=6fc6fd0c77e5494c14724442abe46e5e
-bot_token=6871410131:AAGBS5zh6W_BjXDw9-RJviAKM9vKwER3NYg
-CF_ID=rendifauzan08@gmail.com
-CF_KEY=94996020b37d0d5e82e246950a47702cc9872
-admin_id=1230626709
-main_domain=cxpricoren.my.id
+api_id=29833847
+api_hash=db0d4eee49049b8f81ec9df8795134ec
+bot_token=6386703502:AAGiUjNES9aXxBWzuqNTiqDBDqd0uLcGFAs
+CF_ID=ysshvpn@gmail.com
+CF_KEY=adaba81589e82448fa7166808ce9f1abd44ff
+admin_id=5795571992
+main_domain=ysshstore.engineer
